@@ -1,5 +1,6 @@
 # Setting Up a High-Availability Metasploit RPC Server (`msgrpc`) Environment with HAProxy, SSL, and Keepalived on Ubuntu
 
+
 ## Introduction
 
 In penetration testing and security operations, the Metasploit Framework is a powerful tool used by security professionals to identify, exploit, and assess vulnerabilities within systems. To scale Metasploit's capabilities for larger teams or automated workflows, setting up its Remote Procedure Call (RPC) server (`msgrpc`) with high availability, load balancing, and secure access is essential. This guide walks you through configuring an `msgrpc` environment with HAProxy for load balancing, SSL for secure communication, and Keepalived for failover, ensuring resilience, performance, and security.
