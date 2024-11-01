@@ -1,5 +1,6 @@
 # Setting Up a High-Availability Metasploit RPC Server (`msgrpc`) Environment with HAProxy, SSL, and Keepalived on Ubuntu
 
+![image](https://github.com/user-attachments/assets/013d85d8-7b6a-433a-ade8-3e7d848dabb5)
 
 ## Introduction
 
@@ -84,6 +85,8 @@ This guide walks through the complete setup for creating a robust and highly ava
 5. **At Least Two Backend Servers**: To run `msgrpc` for load balancing and failover.
 
 ---
+
+![Qgo7yYP4T9rRhgAH9J9nEU](https://github.com/user-attachments/assets/bc7929eb-ac07-40c0-a28e-d84241832155)
 
 ## Step 1: Create a Systemd Service for Metasploit’s `msgrpc`
 
