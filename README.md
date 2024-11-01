@@ -59,11 +59,6 @@ Security is paramount in a Metasploit RPC deployment, as it involves sensitive o
 
 This introduction, objectives, and security requirements section provides a foundation for understanding the purpose, goals, and security considerations of setting up a high-availability and secure `msgrpc` environment. Let me know if you’d like further details on any section or additional topics included!
 
-
-# Setting Up a High-Availability Metasploit RPC Server (`msgrpc`) Environment with HAProxy, SSL, and Keepalived on Ubuntu
-
-This guide walks through the complete setup for creating a robust and highly available Metasploit RPC (`msgrpc`) server environment using HAProxy for load balancing, SSL for secure communication, and Keepalived for failover. It covers setting up `msgrpc` and HAProxy as services on Ubuntu, as well as testing and validating the configuration with `curl` commands.
-
 ---
 
 ## Objectives
