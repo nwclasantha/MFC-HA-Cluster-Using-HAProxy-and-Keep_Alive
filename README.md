@@ -1,6 +1,6 @@
 # Setting Up a High-Availability Metasploit RPC Server (`msgrpc`) Environment with HAProxy, SSL, and Keepalived on Ubuntu
 
-![image](https://github.com/user-attachments/assets/013d85d8-7b6a-433a-ade8-3e7d848dabb5)
+![image](https://github.com/user-attachments/assets/bef2fb77-335e-47a1-b6d2-233d4987c039)
 
 ## Introduction
 
